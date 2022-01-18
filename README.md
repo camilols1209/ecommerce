@@ -1,2 +1,2 @@
 # ecommerce
-Es un proyecto para practicar python y react
+Es un proyecto para practicar react
